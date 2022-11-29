@@ -1,7 +1,0 @@
-module RemotoApp{
-    interface Remoto {
-        long raizQuadrada(in long num);
-        long fatorial(in long num);
-        long menorNum(in long num1,in long num2,in long num3);
-    };
-};
